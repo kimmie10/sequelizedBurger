@@ -1,0 +1,54 @@
+
+h1 {
+    text-align: center;
+}
+
+ul { 
+    list-style-type: none;
+    display: inline-block;
+}
+
+body {
+    background-color: rgba(255, 230, 0, 0.521);
+
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#container {   
+    text-align: center;
+}
+
+.eaten {
+ text-align: left;
+}
+
+.notEaten {
+    position: relative;
+    margin: 20px 50px;
+    text-align: left;
+}
+
+textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+#submit {
+ margin: 0, auto;
+ margin-top: 10px;
+}
+
+.btn {
+    margin: 10px;
+    text-align: right;
+}
